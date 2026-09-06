@@ -271,8 +271,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Models are hosted on HuggingFace and loaded from the local `model/` directory when running the Space. For local development, download from [AgriGuard-Models](https://huggingface.co/mearslanahmed/AgriGuard-Models) and place in `flask_api/model/`.
-
 ### Mobile App
 
 ```bash
