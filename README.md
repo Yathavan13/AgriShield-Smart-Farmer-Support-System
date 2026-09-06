@@ -341,16 +341,6 @@ Update WiFi credentials and backend URL in both sketches before flashing.
 | Sequence - Water Management | [View](diagrams/3c_sequence_water_management.png) |
 | Hardware Communication | [View](diagrams/7_hardware_communication.png) |
 
----
-
-## Team
-
-Built by [Arslan Ahmed](https://github.com/mearslanahmed) (lead developer) as part of a Final Year Project at GCUF, Session 2022–2026.
-
-| Role | Name | Contact |
-|------|------|---------|
-| Lead Developer | Arslan Ahmed | arslanahmednaseem@gmail.com |
-| Team Member | Amna Ikram | amnaikram822@gmail.com |
 
 ---
 
