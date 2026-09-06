@@ -342,13 +342,4 @@ Update WiFi credentials and backend URL in both sketches before flashing.
 | Hardware Communication | [View](diagrams/7_hardware_communication.png) |
 
 
----
-
-AgriGuard was developed for **AG Leaders** - a smart agriculture initiative. A formal project letter is on file.
-
----
-
-## License
-
-MIT License. Developed as a Final Year Project at the Department of Software Engineering, Government College University Faisalabad.
 
